@@ -1,0 +1,16 @@
+name: s2-offset-demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - requests
+  - matplotlib
+  - rasterio
+  - pytorch
+  - torchvision
+  - timm
+  - huggingface_hub
+  - safetensors
+  - jupyterlab
+  - ipykernel
